@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
 <h3 align="center">A passionate Electrical and Electronics Engineer</h3>
 
-- 🔭 I’m currently working on **Stationary Applications of Lithium Ion Battery packs.**
+- 🔭 I’m currently working on **Stationary Applications of Lithium Ion Battery packs and in free time also look into design improvements of Mobile Robots.**
 
 - 🌱 I’m currently learning **Robot Operating Systems, PCB Designing,**
 
