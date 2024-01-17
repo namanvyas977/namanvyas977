@@ -9,7 +9,9 @@
 
 - 📫 The best way to get in touch is **namanvyas977@gmail.com**
 
-- VID_20201228_015100.mp4
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
