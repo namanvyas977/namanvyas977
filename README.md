@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Battery Management System, Embedded Systems, Mechanical Design of Robots and Battery packs**
 
-- 📫 The best way to get in touch is **namanvyas977@gmail.com**
+- 📫 The best way to get in touch is, drop your message at **namanvyas977@gmail.com**
 - https://github.com/namanvyas977/namanvyas977/assets/156882603/16622a22-c572-478d-82ab-45ec092841ff
 
 
