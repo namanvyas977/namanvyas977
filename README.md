@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
 <h3 align="center">A passionate Electrical and Electronics Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanvyas977&label=Profile%20views&color=0e75b6&style=flat" alt="namanvyas977" /> </p>
-
 - 🔭 I’m currently working on **Stationary Applications of Lithium Ion Battery packs.**
 
 - 🌱 I’m currently learning **Robot Operating Systems, PCB Designing,**
